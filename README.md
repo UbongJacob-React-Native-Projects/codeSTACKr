@@ -11,7 +11,10 @@
 - 🥅 2021Goals: Become a full stack mobile application developer.
 - ⚡ Fun fact: I love playing chess.
 
-![Profile views](https://gpvc.arturio.dev/UbongJacob)  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/UbongJacob/count.svg" />
+</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UbongJacob&show_icons=true&count_private=true)  
 
