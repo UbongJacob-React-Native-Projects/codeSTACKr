@@ -2,7 +2,7 @@
 
 ## About me 😉
 
-##I'm Ubong Jacob. A computer science student, mobile application Developer, and aspiring blockchain developer !!
+### I'm Ubong Jacob. A computer science student, mobile application Developer, and aspiring blockchain developer !!
 
 - 🌱 I’m currently learning ... React-Native.
 - 👯 I’m looking to collaborate with other React-Native developers.
